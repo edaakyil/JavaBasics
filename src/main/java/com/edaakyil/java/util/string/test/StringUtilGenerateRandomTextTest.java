@@ -5,9 +5,9 @@
  * Time:17:38
  */
 
-package main.com.edaakyil.java.util.string.test;
+package com.edaakyil.java.util.string.test;
 
-import main.com.edaakyil.java.util.string.StringUtil;
+import com.edaakyil.java.util.string.StringUtil;
 
 import java.util.Random;
 import java.util.Scanner;

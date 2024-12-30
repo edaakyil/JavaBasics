@@ -5,9 +5,9 @@
  * Time:7:04 PM
  */
 
-package main.com.edaakyil.java.util.string.test;
+package com.edaakyil.java.util.string.test;
 
-import main.com.edaakyil.java.util.string.StringUtil;
+import com.edaakyil.java.util.string.StringUtil;
 
 import java.util.Scanner;
 

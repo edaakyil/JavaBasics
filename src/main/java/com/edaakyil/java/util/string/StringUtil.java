@@ -1,4 +1,4 @@
-package main.com.edaakyil.java.util.string;
+package com.edaakyil.java.util.string;
 
 import java.util.Random;
 
