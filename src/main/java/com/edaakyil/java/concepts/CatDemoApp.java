@@ -1,4 +1,4 @@
-package main.com.edaakyil.java.concepts;
+package com.edaakyil.java.concepts;
 
 public class CatDemoApp {
     public static void main(String[] atgs)
